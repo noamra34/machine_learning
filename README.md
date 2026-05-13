@@ -173,9 +173,9 @@ This helps understand *why* the model made a specific decision.
 
 # 👥 Authors
 
-- **Noa Rahamim** (נועה רחמים)  
-- **Noa Zadok**  
-- **Liran Sternberg**
+- **Isabelle Ditsev**
+- **Hila Tati**
+- **Noam Rahcamim**
 
 ---
 
