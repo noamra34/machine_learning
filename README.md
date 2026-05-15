@@ -173,9 +173,9 @@ This helps understand *why* the model made a specific decision.
 
 # 👥 Authors
 
-- **Isabelle Ditsev**
+- **Isabelle Deychev**
 - **Hila Tati**
-- **Noam Rahcamim**
+- **Noam Rachamim**
 
 ---
 
